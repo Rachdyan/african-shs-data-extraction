@@ -1,6 +1,6 @@
 # About The Project
 
-The goal of this project is to extract African's SHS data from complex PDF files into excel files using R.
+The goal of this project is to extract African's SHS data from complex PDF files into excel files using R. This project leverages R pdftools and tabulizer package to read pdf files and transform it to tidy excel files.
 
 
 ## Data
